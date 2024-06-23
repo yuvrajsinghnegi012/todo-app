@@ -1,5 +1,5 @@
 // const API_URL = 'http://localhost:5000/api/tasks';
-const API_URL = 'https://todo-app-dkig.onrender.com/api/tasks';
+const API_URL = 'https://todo-app-2ls3.onrender.com/api/tasks';
 
 export const getTasks = async () => {
   const response = await fetch(API_URL);
